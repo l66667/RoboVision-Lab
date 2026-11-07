@@ -1,0 +1,36 @@
+runtime/
+runs/
+tmp/
+__pycache__/
+*.pyc
+*.pyo
+.server.json
+data/ai_config.json
+data/uploads/*
+!data/uploads/.keep
+
+# local environments / editors
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.pytest_cache/
+
+# generated / local artifacts
+*.log
+*.zip
+projects/github-rotation/result.jpg
+dist/
+build/
+*.spec
+*.key
+*.pem
+.DS_Store
+Thumbs.db
+
+
+# ROS2 课程生成的临时构建目录
+work/
