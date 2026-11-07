@@ -24,7 +24,7 @@
 前提：Windows 10/11，装好 **Python 3.10–3.13**，安装时勾选 **Add Python to PATH**。
 
 ```powershell
-git clone https://github.com/<你的用户名>/RoboVision-Lab.git
+git clone https://github.com/l66667/RoboVision-Lab.git
 cd RoboVision-Lab
 setup.bat
 start.bat
